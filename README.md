@@ -6,7 +6,7 @@ Judul : Pendeteksi Tawuran Dalam Satu Wilayah Menggunakan Metode Convolutional N
 
 Pendeteksi tawuran dalam satu wilayah menggunakan metode Convolutional Neural Network (CNN) adalah sebuah sistem yang memanfaatkan teknik deep learning untuk mengidentifikasi potensi tawuran atau kejadian kekerasan berdasarkan data visual seperti gambar atau video dalam wilayah tertentu. CNN adalah jenis jaringan saraf tiruan yang sangat cocok untuk tugas pengenalan pola dalam data gambar.
 
-Persoalan Praktis
+# Persoalan Praktis
 Dalam judul "Pendeteksi Tawuran Dalam Satu Wilayah Menggunakan Metode Convolutional Neural Network" ada beberapa persoalan praktis yang mungkin dihadapi dalam pengembangan sistem ini. Berikut beberapa persoalan yang perlu diperhatikan:
 1. Ketersediaan Data yang Cukup: Salah satu tantangan utama adalah mendapatkan dataset yang mencukupi untuk melatih model CNN. Pengumpulan data tawuran yang valid dan cukup besar bisa menjadi sulit, terutama jika tawuran merupakan peristiwa yang jarang terjadi.
 2. Labeling Data: Proses pelabelan data (annotasi) memerlukan waktu dan sumber daya yang signifikan. Menentukan gambar atau video mana yang berisi tawuran dan mana yang tidak bisa menjadi pekerjaan yang memakan waktu.
@@ -32,7 +32,7 @@ Berikut beberapa pertanyaan penelitian (research questions) yang dapat menjadi d
 9. Bagaimana pengaruh regulasi dan kebijakan hukum terhadap penggunaan sistem pendeteksi tawuran dengan teknologi CNN dalam wilayah publik?
 10. Apakah ada cara untuk mengintegrasikan sistem ini dengan sistem keamanan yang ada untuk meningkatkan respons terhadap tawuran dalam satu wilayah?
 
-#Teori yang berkaitan : 
+# Teori yang berkaitan : 
 Dalam penelitian mengenai pendeteksi tawuran dalam satu wilayah menggunakan metode Convolutional Neural Network (CNN), terdapat beberapa teori dan konsep yang berkaitan. Berikut adalah beberapa teori yang relevan dengan topik ini:
 Convolutional Neural Network (CNN): Ini adalah teori dasar yang menjadi landasan pengembangan model. CNN adalah jenis jaringan saraf tiruan yang terutama digunakan untuk pengolahan citra dan pengenalan pola dalam data gambar.
 1. Deep Learning: CNN adalah salah satu komponen dari deep learning, yang merupakan cabang dari machine learning yang menggunakan jaringan saraf tiruan dengan banyak lapisan (deep neural networks) untuk memahami fitur-fitur hierarkis dalam data.
