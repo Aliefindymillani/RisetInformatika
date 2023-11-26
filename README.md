@@ -1,7 +1,7 @@
 # RisetInformatika
 Mata kuliah riset informatika adalah mata kuliah yang mempelajari tentang berbagai metode penelitian, teknik eksperimen, analisis data, dan pendekatan penelitian lainnya yang digunakan dalam ilmu komputer. Mereka juga akan diajak untuk memahami perkembangan terbaru dalam bidang tersebut dan belajar cara menghasilkan kontribusi penelitian baru.
 
-# Tugas 1 : Mencari Topik Penelitian
+# Mencari Topik Penelitian
 Judul : Pendeteksi Tawuran Dalam Satu Wilayah Menggunakan Metode Convolutional Neural Network.
 
 Pendeteksi tawuran dalam satu wilayah menggunakan metode Convolutional Neural Network (CNN) adalah sebuah sistem yang memanfaatkan teknik deep learning untuk mengidentifikasi potensi tawuran atau kejadian kekerasan berdasarkan data visual seperti gambar atau video dalam wilayah tertentu. CNN adalah jenis jaringan saraf tiruan yang sangat cocok untuk tugas pengenalan pola dalam data gambar.
