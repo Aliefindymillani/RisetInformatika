@@ -93,12 +93,6 @@ Terakhir, evaluasi pada Overshoot menunjukkan bahwa SVM memiliki nilai lebih ren
 
 Dengan demikian, analisis metrik-metrik tersebut menggambarkan keunggulan masing-masing metode dalam konteks pengendalian suhu, di mana LSTM lebih cocok untuk situasi yang membutuhkan respons cepat, sementara SVM menonjol dalam mencapai kestabilan yang lebih baik dalam waktu yang lebih singkat. Evaluasi ini memberikan wawasan yang berguna untuk pemilihan metode yang paling sesuai dengan kebutuhan spesifik sistem yang diinginkan.
 
-#### Kesimpulan untuk PID Deep Learning (SVM vs. LSTM):
-
-LSTM memberikan kinerja yang lebih baik dalam hal Rising Time, menunjukkan kemampuan untuk merespons perubahan input dengan lebih cepat.
-SVM lebih unggul dalam Settling Time, menunjukkan kemampuan untuk mencapai nilai setpoint secara stabil dalam waktu yang lebih singkat.
-SVM memiliki nilai Overshoot yang lebih rendah, menunjukkan stabilitas yang lebih baik dalam mendekati setpoint.
-
 ### Perbandingan dengan metode yang berbeda (SVM vs. LSTM):
 
 Dalam evaluasi perbandingan antara PID Deep Learning menggunakan metode SVM dan PID Deep Learning pada metrik kinerja yang berbeda, terlihat bahwa keduanya memiliki keunggulan dan kelemahan spesifik. Pertama, dalam hal Rising Time, PID Deep Learning dengan nilai 86,45 menunjukkan performa lebih baik dibandingkan dengan SVM yang memiliki nilai 101,59. Dengan selisih -15,14, dapat disimpulkan bahwa PID Deep Learning mampu mengurangi waktu yang diperlukan untuk mencapai nilai setpoint, menandakan respons yang lebih efisien terhadap perubahan input.
