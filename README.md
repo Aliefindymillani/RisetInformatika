@@ -119,10 +119,10 @@ Kesimpulannya, pemilihan antara SVM dan LSTM dalam konteks PID Deep Learning har
 # Referensi
 Berikut merupakan referensi yang digunakan :
 
-[1-s2.0-S0022169423013227-main.pdf](https://github.com/Aliefindymillani/RisetInformatika/files/13644441/1-s2.0-S0022169423013227-main.pdf)
-[1-s2.0-S2405844022006879-main.pdf](https://github.com/Aliefindymillani/RisetInformatika/files/13644444/1-s2.0-S2405844022006879-main.pdf)
-[1-s2.0-S0950705123010389-main.pdf](https://github.com/Aliefindymillani/RisetInformatika/files/13644447/1-s2.0-S0950705123010389-main.pdf)
-[1-s2.0-S0308814623018538-main.pdf](https://github.com/Aliefindymillani/RisetInformatika/files/13644445/1-s2.0-S0308814623018538-main.pdf)
+[1-s2.0-S0022169423013227-main.pdf](https://github.com/Aliefindymillani/RisetInformatika/files/13644441/1-s2.0-S0022169423013227-main.pdf)<br />
+[1-s2.0-S2405844022006879-main.pdf](https://github.com/Aliefindymillani/RisetInformatika/files/13644444/1-s2.0-S2405844022006879-main.pdf)<br />
+[1-s2.0-S0950705123010389-main.pdf](https://github.com/Aliefindymillani/RisetInformatika/files/13644447/1-s2.0-S0950705123010389-main.pdf)<br />
+[1-s2.0-S0308814623018538-main.pdf](https://github.com/Aliefindymillani/RisetInformatika/files/13644445/1-s2.0-S0308814623018538-main.pdf)<br />
 
 # Coding
 
