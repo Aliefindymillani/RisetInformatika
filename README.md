@@ -117,9 +117,18 @@ Ketika membandingkan PID Deep Learning dengan SVM, dapat dilihat bahwa PID Deep 
 Kesimpulannya, pemilihan antara SVM dan LSTM dalam konteks PID Deep Learning harus didasarkan pada prioritas spesifik aplikasi, apakah lebih mengutamakan kecepatan respon atau stabilitas settling time. Evaluasi yang cermat perlu dilakukan dengan mempertimbangkan kriteria kinerja yang paling relevan dan mengoptimalkan penggunaan metode yang paling sesuai untuk memenuhi kebutuhan sistem pengendalian suhu yang bersangkutan.
 
 # Referensi
-# Dataset
+Berikut merupakan referensi yang digunakan :
+
+[1-s2.0-S0022169423013227-main.pdf](https://github.com/Aliefindymillani/RisetInformatika/files/13644441/1-s2.0-S0022169423013227-main.pdf)
+[1-s2.0-S2405844022006879-main.pdf](https://github.com/Aliefindymillani/RisetInformatika/files/13644444/1-s2.0-S2405844022006879-main.pdf)
+[1-s2.0-S0950705123010389-main.pdf](https://github.com/Aliefindymillani/RisetInformatika/files/13644447/1-s2.0-S0950705123010389-main.pdf)
+[1-s2.0-S0308814623018538-main.pdf](https://github.com/Aliefindymillani/RisetInformatika/files/13644445/1-s2.0-S0308814623018538-main.pdf)
+
 # Coding
-# Cara Menjalankan
+
+(https://github.com/Aliefindymillani/RisetInformatika/blob/main/SVM_ITCLAB.ipynb)
+(https://github.com/Aliefindymillani/RisetInformatika/blob/main/LSTM_ITCLAB.ipynb)
+
 # Paper
 
 
