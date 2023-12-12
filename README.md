@@ -59,6 +59,28 @@ Penting untuk dicatat bahwa proses pelatihan model melibatkan iterasi sejumlah e
 ## Hasil dan Analisis
 Dalam hasil evaluasi PID Deep Learning menggunakan SVM dan LSTM, metrik yang diukur termasuk Rising Time, Settling Time, dan Overshoot. Analisis perbandingan hasil masing-masing metrik memberikan pemahaman lebih mendalam tentang kinerja kedua metode tersebut.
 
+### SVM
+
+![PID_Result](https://github.com/Aliefindymillani/RisetInformatika/assets/89888415/340ce2de-0251-4558-8831-d77e532a3aae)
+
+PID Result
+
+![SVM_Result](https://github.com/Aliefindymillani/RisetInformatika/assets/89888415/01b62c82-051f-48ff-ada3-037833372aa8)
+
+SVM Result
+
+### LSTM
+
+![HEAT with (PID DL)](https://github.com/Aliefindymillani/RisetInformatika/assets/89888415/ac293d8c-2451-48ec-b530-957d4707f79f)
+
+PID Result
+
+![HEAT with (LSTM)](https://github.com/Aliefindymillani/RisetInformatika/assets/89888415/4c5f147e-3624-4eac-910c-3ae60fdc5826)
+
+LSTM Result
+
+
+### Perbandingan
 ![image](https://github.com/Aliefindymillani/RisetInformatika/assets/89888415/3c2d77d8-524d-4ad0-aac0-f2e521381464)
 
 ### PID Deep Learning (SVM vs. LSTM):
